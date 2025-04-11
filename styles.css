@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: black;
+  }
+  input {
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    left: 10px;
+  }
+  
