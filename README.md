@@ -1,2 +1,2 @@
 # OrignalXboxMenuMusicVisualizer
-Original Xbox Music Visualizer Reimplementation
+Reimplementation of Original Xbox Visualizer 
